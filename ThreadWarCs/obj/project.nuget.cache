@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWjXCXqL3Uowaj0yYKslf9sVRlAd/VlmQUArsxl4wdjwic2HInvfnmalREtjQdyko2va+Rb6wL0YhuZtQ3sNaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breni\\source\\repos\\ThreadWarCs\\ThreadWarCs\\ThreadWarCs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breni\\.nuget\\packages\\pinvoke.windows.core\\0.7.104\\pinvoke.windows.core.0.7.104.nupkg.sha512",
+    "C:\\Users\\breni\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
